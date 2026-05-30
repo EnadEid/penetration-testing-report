@@ -1,0 +1,13 @@
+# Windows temporary files
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Word temporary files
+~$*.docx
+
+# Mac files
+.DS_Store
+
+# System files
+*.log
